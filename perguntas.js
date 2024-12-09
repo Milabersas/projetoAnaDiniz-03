@@ -1,23 +1,23 @@
 criaCartao(
-    'Pop',
-    'Qual é a indústria da musica?',
-    'A Taylor Swift'
+    'Pergunta 1',
+    'Qual é maior floresta do mundo?',
+    'Amazônia'
 )
 
 criaCartao(
-    'Geografia',
-    'Qual o primeiro grupo global pop do mundo?',
-    'O Now United'
+    'Pergunta 2',
+    'Qual o homem mais alto do mundo?',
+    'O Sultan'
 )
 
 criaCartao(
     'Série',
-    'Quantas temporadas tem Greys Anatomy Atualmente?',
-    '21'
+    'Quem é a protagonista de Greys?',
+    'Meredith Grey'
 )
 
 criaCartao(
-    'Taylor Swift',
-    'O que foi a "The Eras Tour"?',
-    'The Eras Tour foi a maior turne da historia'
+    'Pergunta 4',
+    'Quem foi a cachorrinha Laika?',
+    'A primeira cachorra mandada para o espaço'
 )
